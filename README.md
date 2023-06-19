@@ -1,5 +1,5 @@
 # Odin Recipes
-odin recipes, this is the project which is progress
+odin recipes is the online paltform that teaches cooking tips
 
 ## Visit Site
 visit site here: https://gedeonge1.github.io/odin-recipes/
