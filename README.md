@@ -1,3 +1,8 @@
 # Odin Recipes
+odin recipes, this is the project which is progress
 
-Recipe project is my first project to ever work on. This project gives and describes 3 Recipes examples. it mainly shows image of a dish or a drink, ingredients and finally it goes through preparation instructions.
+## Visit Site
+visit site here: https://gedeonge1.github.io/odin-recipes/
+
+## Development Branch(develop)
+check codebase: https://github.com/gedeonge1/odin-recipes/tree/develop
